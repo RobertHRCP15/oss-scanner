@@ -1,0 +1,3 @@
+repo: https://github.com/RobertHRCP15/wmf-ezfab-leadership-dashboard#main
+primary_contact: your-email@example.com
+dockerfile: .oss-scanner/Dockerfile
